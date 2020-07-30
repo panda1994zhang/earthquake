@@ -22,7 +22,9 @@
 ![全球态势图](media/%E5%85%A8%E7%90%83%E6%80%81%E5%8A%BF%E5%9B%BE.jpg)
 
 微信通知
+
 ![微信通知](media/%E5%BE%AE%E4%BF%A1%E9%80%9A%E7%9F%A5.jpg)
 
 事件api
+
 ![事件api](media/api%E6%95%B0%E6%8D%AE%E6%98%BE%E7%A4%BA.jpg)
