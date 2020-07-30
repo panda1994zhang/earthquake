@@ -1,7 +1,7 @@
 WechatConf = {
-    "Admin": "ZhenYingXiongXiongMao",
+    "Admin": "XXXX",#添加发送信息用户
     "DebugerAppId": "1000002",
-    "CorpId": "ww9d0d69734cd5ec1d",
+    "CorpId": "XXXX",#添加发送信息用户
     "DataLocal": False,
     "Types": ["image", "voice", "video", "file", "text", "news", "mpnews"],
     "TokenPath": "WeChatTokens/app_${}",
