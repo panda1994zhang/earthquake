@@ -5,3 +5,9 @@ requests==2.24.0
 Django==3.0.3
 moment==0.8.2
 djangorestframework==3.11.0
+django_crontab
+django_extensions
+gunicorn
+django-bootstrap4
+django_echarts
+coreapi
