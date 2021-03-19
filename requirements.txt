@@ -4,7 +4,7 @@ trio==0.13.0
 requests==2.24.0
 Django==3.0.3
 moment==0.8.2
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 django_crontab
 django_extensions
 gunicorn
